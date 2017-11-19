@@ -1,0 +1,11 @@
+{
+  "name": "swoole-ant/ant-config",
+  "version": "0.0.1",
+  "dependencies": "ant config center",
+  "require": {
+    "php": ">=5.6",
+    "zphp/zphp": "dev-master",
+    "swoole-ant/ant-rpc": "dev-master",
+    "swoole-ant/ant-lib": "dev-master"
+  }
+}
